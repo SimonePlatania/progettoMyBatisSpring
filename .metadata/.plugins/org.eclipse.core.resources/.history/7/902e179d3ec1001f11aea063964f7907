@@ -1,0 +1,5 @@
+package com.simone.controller;
+
+public class UserController {
+
+}
